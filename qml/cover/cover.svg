@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg4159"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="harbour-kompanion-cover.svg"
+   inkscape:export-filename="/home/james/Images/Projects/Sailfish/harbour-kompanion-cover.svg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4161">
+    <linearGradient
+       id="linearGradient3789-6">
+      <stop
+         style="stop-color:#37a7dd;stop-opacity:1"
+         offset="0"
+         id="stop3791-0" />
+      <stop
+         style="stop-color:#2e7aca;stop-opacity:1"
+         offset="1"
+         id="stop3793-4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4906">
+      <stop
+         id="stop4908"
+         offset="0"
+         style="stop-color:#f56730;stop-opacity:1" />
+      <stop
+         id="stop4910"
+         offset="1"
+         style="stop-color:#ff9300;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-276.94736"
+     inkscape:cy="90.822832"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4838"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36213)">
+    <g
+       id="g4838"
+       transform="matrix(2.4194179,0,0,2.4194179,-182.38561,-1313.8001)">
+      <path
+         d="m 170.98937,883.80653 c 0,-0.7859 -0.63672,-1.42362 -1.42361,-1.42362 l -82.55277,0 c -0.785893,0 -1.423617,0.63772 -1.423617,1.42362 l 0,41.27689 c 0,23.5828 19.117717,42.6995 42.699497,42.6995 l 41.27689,0 c 0.78589,0 1.42361,-0.6968 1.42361,-1.4827 l 0,-82.49369 z"
+         id="path11-4"
+         style="display:inline;fill:#ffffff;fill-opacity:0.41409692"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         transform="matrix(1.1452586,0,0,1.1452586,71.805505,873.15801)"
+         style="font-style:normal;font-weight:normal;font-size:28px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4890"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4892"><rect
+             style="fill:#ffffff;fill-opacity:1"
+             y="11"
+             x="10"
+             height="65"
+             width="70"
+             id="rect4894" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="flowPara4896">kom</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="flowPara4898">pan</flowPara><flowPara
+           id="flowPara4900"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">ion</flowPara></flowRoot>      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         d="M 81.359375 24.693359 C 79.457979 24.693359 77.919922 26.231392 77.919922 28.132812 L 77.919922 128 C 77.919922 185.05665 124.17238 231.30664 181.22656 231.30664 L 186.06641 231.30664 C 129.01223 231.30664 82.757812 185.05665 82.757812 128 L 82.757812 28.132812 C 82.757813 26.231392 84.297822 24.693359 86.199219 24.693359 L 81.359375 24.693359 z M 223.02734 24.693359 C 224.93116 24.693359 226.46875 26.231392 226.46875 28.132812 L 226.46875 227.7207 C 226.46875 229.62212 224.92874 231.30664 223.02734 231.30664 L 227.86719 231.30664 C 229.76858 231.30664 231.30664 229.62212 231.30664 227.7207 L 231.30664 28.132812 C 231.30664 26.231392 229.771 24.693359 227.86719 24.693359 L 223.02734 24.693359 z "
+         transform="matrix(0.41332256,0,0,0.41332256,75.384087,872.17765)"
+         id="path4229" />
+      <path
+         id="path4902"
+         d="m 111.01203,882.38369 c -0.78589,0 -1.42188,0.63598 -1.42188,1.42188 l 0,41.27735 c 0,23.5828 19.11744,42.6992 42.69922,42.6992 l 17.27735,0 c 0.78589,0 1.42187,-0.6965 1.42187,-1.4824 l 0,-82.49415 c 0,-0.7859 -0.63498,-1.42188 -1.42187,-1.42188 l -58.55469,0 z"
+         style="display:inline;fill:#ffffff;fill-opacity:0.18942732"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
